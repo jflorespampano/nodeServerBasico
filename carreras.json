@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "nombre":"li",
+        "gestor":"Ulises Barradas"
+    },
+    {
+        "id":2,
+        "nombre":"ico",
+        "gestor":"fernando sanchez"
+    },
+    {
+        "id":3,
+        "nombre":"isc",
+        "gestor":"juan carlos canto"
+    },
+    {
+        "id":4,
+        "nombre":"idm",
+        "gestor":"benjamin tass"
+    }
+]
